@@ -16,6 +16,8 @@ import org.openqa.selenium.safari.SafariDriver;
 
 import com.mba.commons.identifiers.InitMethodWindows;
 
+import io.github.bonigarcia.wdm.WebDriverManager;
+
 public class BrowserFactory extends InitMethodWindows {
 	protected static WebDriver driver;
 	static DesiredCapabilities capabilities;
@@ -24,14 +26,15 @@ public class BrowserFactory extends InitMethodWindows {
 	@SuppressWarnings("deprecation")
 	public static WebDriver createDriver(String Browser, String WebsiteURL, int ImplicitlyWait, int MaxPageLoadTime) throws Exception {
 		String value = Browser;
+		
 		switch (value) {
 		case "chrome":
-			System.setProperty("webdriver.chrome.driver", "src/main/resources/browserAutomation/Drivers/chromedriver.exe");
+			WebDriverManager.chromedriver().arch64().setup();
 			driver = new ChromeDriver();
 			break;
 
 		case "chrome_headless":
-			System.setProperty("webdriver.chrome.driver", "src/main/resources/browserAutomation/Drivers/chromedriver.exe");
+			WebDriverManager.chromedriver().arch64().setup();
 			ChromeOptions chromeOptions = new ChromeOptions();
 			chromeOptions.addArguments("--headless");
 			chromeOptions.addArguments("--disable-gpu");
@@ -39,19 +42,16 @@ public class BrowserFactory extends InitMethodWindows {
 			break;
 
 		case "firefox":
-			System.setProperty("webdriver.gecko.driver", "src/main/resources/browserAutomation/Drivers/geckodriver.exe");
 			driver = new FirefoxDriver();
 			break;
 
 		case "ie":
 		case "internet explorer":
-			System.setProperty("webdriver.ie.driver", "src/main/resources/browserAutomation/Drivers/IEDriverServer.exe");
 			DesiredCapabilities ieCapabilities = DesiredCapabilities.internetExplorer();
 			ieCapabilities.setCapability(InternetExplorerDriver.INTRODUCE_FLAKINESS_BY_IGNORING_SECURITY_DOMAINS, true);
 			break;
 
 		case "opera":
-			System.setProperty("webdriver.chrome.driver", "src/main/resources/browserAutomation/Drivers/chromedriver.exe");
 			capabilities = DesiredCapabilities.opera();
 			ChromeOptions optionsOpera = new ChromeOptions();
 			optionsOpera.setBinary("C:/Program Files/Opera/launcher.exe");
