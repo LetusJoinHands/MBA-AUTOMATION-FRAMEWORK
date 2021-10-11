@@ -8,8 +8,9 @@ import io.restassured.response.Response;
 import io.restassured.specification.RequestSpecification;
 
 public class WebServices {
-
-	
+	/**
+		call API method
+		*/
 	public void callAPI(String URL, String method, String parameter) {
 		 RestAssured.baseURI =URL;
 		 RequestSpecification request = RestAssured.given();
