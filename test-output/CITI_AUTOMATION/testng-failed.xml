@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite configfailurepolicy="continue" guice-stage="DEVELOPMENT" name="Failed suite [CITI_AUTOMATION]">
+  <test thread-count="5" name="UK_iOS_DASHBOARD_L2_L3(failed)">
+    <classes>
+      <class name="com.citi.mobileAutomation.test_TH.Test_APAC_iOS_ALOP_100">
+        <methods>
+          <include name="appiumDriverInitialization"/>
+          <include name="gettingDashboard" invocation-numbers="1"/>
+          <include name="getResult"/>
+          <include name="closeOpenItems"/>
+          <include name="endReport"/>
+          <include name="startReport"/>
+        </methods>
+      </class> <!-- com.citi.mobileAutomation.test_TH.Test_APAC_iOS_ALOP_100 -->
+    </classes>
+  </test> <!-- UK_iOS_DASHBOARD_L2_L3(failed) -->
+</suite> <!-- Failed suite [CITI_AUTOMATION] -->

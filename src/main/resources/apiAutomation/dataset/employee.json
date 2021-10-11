@@ -1,0 +1,13 @@
+[{
+		"employee": "POST**$.firstname=shenilton-string,$.lastname=Ramakrishnan-string,$.designation=senior engineer-string,salary=1000-int"
+	},
+	{
+		"employee": "POST**$.firstname=shenilton-string,$.lastname=Ramakrishnan-string,$.designation=senior engineer-string,salary=1000-int"
+	},
+	{
+		"employee": "POST**$.firstname=shenilton-string,$.lastname=Ramakrishnan-string,$.designation=senior engineer-string,salary=1000-int"
+	},
+	{
+		"employee": "PUT**$.firstname=shenilton-string,$.lastname=Ramakrishnan-string,$.designation=senior engineer-string,salary=1000-int"
+	}
+]

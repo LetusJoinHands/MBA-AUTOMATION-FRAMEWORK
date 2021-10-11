@@ -1,0 +1,258 @@
+2019-07-04 11:54:44 INFO  Log4jModel:11 - Log4jExample: A Sample Info  Message
+2019-07-04 11:54:44 WARN  Log4jModel:12 - Log4jExample: A Sample Warn  Message
+2019-07-04 11:54:44 ERROR Log4jModel:13 - Log4jExample: A Sample Error Message
+2019-07-04 11:54:44 FATAL Log4jModel:14 - Log4jExample: A Sample Fatal Message
+2019-07-09 11:18:29 ERROR ResuableFunction:136 - Expected condition failed: waiting for visibility of element located by By.xpath: //XCUIElementTypeStaticText[@name="Get it now"] (tried for 30 second(s) with 500 milliseconds interval)
+2019-07-09 11:19:00 ERROR ResuableFunction:136 - Expected condition failed: waiting for visibility of element located by By.xpath: //XCUIElementTypeButton[@name="Get Started"] (tried for 30 second(s) with 500 milliseconds interval)
+2019-07-09 11:24:06 ERROR ResuableFunction:136 - Expected condition failed: waiting for visibility of element located by By.xpath: //XCUIElementTypeButton[@name="Next"] (tried for 30 second(s) with 500 milliseconds interval)
+2019-07-09 11:24:47 ERROR ResuableFunction:136 - Expected condition failed: waiting for visibility of element located by By.xpath: //XCUIElementTypeStaticText[@name="Other bank account"] (tried for 30 second(s) with 500 milliseconds interval)
+2019-07-09 11:26:09 ERROR ResuableFunction:136 - Expected condition failed: waiting for visibility of element located by By.xpath: //XCUIElementTypeButton[@name="Next"] (tried for 30 second(s) with 500 milliseconds interval)
+2019-07-09 21:02:18 ERROR ResuableFunction:136 - Expected condition failed: waiting for visibility of element located by By.xpath: //XCUIElementTypeOther[@name="CitiBank"]/XCUIElementTypeOther[35]/XCUIElementTypeOther[5] (tried for 30 second(s) with 500 milliseconds interval)
+2019-07-09 21:02:49 ERROR ResuableFunction:136 - Expected condition failed: waiting for visibility of element located by By.xpath: //XCUIElementTypeStaticText[@name="Get it now"] (tried for 30 second(s) with 500 milliseconds interval)
+2019-07-09 21:03:22 ERROR ResuableFunction:136 - Expected condition failed: waiting for visibility of element located by By.xpath: //XCUIElementTypeButton[@name="Get Started"] (tried for 30 second(s) with 500 milliseconds interval)
+2019-07-09 21:08:42 ERROR ResuableFunction:136 - Expected condition failed: waiting for visibility of element located by By.xpath: //XCUIElementTypeButton[@name="Next"] (tried for 30 second(s) with 500 milliseconds interval)
+2019-07-09 21:09:24 ERROR ResuableFunction:136 - Expected condition failed: waiting for visibility of element located by By.xpath: //XCUIElementTypeStaticText[@name="Other bank account"] (tried for 30 second(s) with 500 milliseconds interval)
+2019-07-09 21:10:47 ERROR ResuableFunction:136 - Expected condition failed: waiting for visibility of element located by By.xpath: //XCUIElementTypeButton[@name="Next"] (tried for 30 second(s) with 500 milliseconds interval)
+2019-07-09 21:14:11 ERROR ResuableFunction:136 - Expected condition failed: waiting for visibility of element located by By.xpath: //XCUIElementTypeStaticText[@name="Get it now"] (tried for 30 second(s) with 500 milliseconds interval)
+2019-07-09 21:14:43 ERROR ResuableFunction:136 - Expected condition failed: waiting for visibility of element located by By.xpath: //XCUIElementTypeButton[@name="Get Started"] (tried for 30 second(s) with 500 milliseconds interval)
+2019-07-09 21:18:28 ERROR ResuableFunction:136 - Expected condition failed: waiting for visibility of element located by By.xpath: //XCUIElementTypeStaticText[@name="Get it now"] (tried for 30 second(s) with 500 milliseconds interval)
+2019-07-09 21:19:01 ERROR ResuableFunction:136 - Expected condition failed: waiting for visibility of element located by By.xpath: //XCUIElementTypeButton[@name="Get Started"] (tried for 30 second(s) with 500 milliseconds interval)
+2019-07-11 14:27:16 ERROR ResuableFunction:132 - Cannot find elements when the XPath is null.
+2019-07-11 14:27:16 ERROR ResuableFunction:132 - Cannot find elements when the XPath is null.
+2019-07-11 14:27:16 ERROR ResuableFunction:132 - Cannot find elements when the XPath is null.
+2019-07-11 14:28:02 ERROR ResuableFunction:132 - Expected condition failed: waiting for visibility of element located by By.xpath: //XCUIElementTypeButton[@name="good_button"] (tried for 30 second(s) with 500 milliseconds interval)
+2019-07-11 14:28:08 ERROR ResuableFunction:132 - Cannot find elements when the XPath is null.
+2019-07-11 14:28:09 ERROR ResuableFunction:132 - Cannot find elements when the XPath is null.
+2019-07-11 14:28:09 ERROR ResuableFunction:132 - Cannot find elements when the XPath is null.
+2019-07-11 14:28:11 ERROR ResuableFunction:132 - Cannot find elements when the XPath is null.
+2019-07-11 14:28:11 ERROR ResuableFunction:132 - Cannot find elements when the XPath is null.
+2019-07-11 16:11:37 ERROR ResuableFunction:132 - Expected condition failed: waiting for visibility of element located by By.xpath: //XCUIElementTypeButton[@name="Experience Citi Mobile®"] (tried for 30 second(s) with 500 milliseconds interval)
+2019-07-11 16:16:17 ERROR ResuableFunction:258 - Cannot find elements when the XPath is null.
+2019-07-11 16:16:58 ERROR ResuableFunction:132 - Expected condition failed: waiting for visibility of element located by By.xpath: //XCUIElementTypeButton[@name="Done"] (tried for 30 second(s) with 500 milliseconds interval)
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'apples-MacBook-Pro.local', ip: '192.168.100.31', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.5', java.version: '1.8.0_211'
+Driver info: io.appium.java_client.ios.IOSDriver
+Capabilities {app: /Users/apple/Documents/SDET..., autoAcceptAlerts: true, browserName: , bundleId: com.citi.development, databaseEnabled: false, deviceName: iPhone 8 Plus, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: false, newCommandTimeout: 3000, platform: MAC, platformName: iOS, platformVersion: 12.1, takesScreenshot: true, udid: C55FEC6C-C574-4B09-8944-F96..., webStorageEnabled: false}
+Session ID: 1724b71e-03e0-401c-9fe7-5ab5819a55d1
+2019-07-11 17:11:56 ERROR ResuableFunction:132 - Expected condition failed: waiting for visibility of element located by By.xpath: //XCUIElementTypeButton[@name="Experience Citi Mobile®"] (tried for 30 second(s) with 500 milliseconds interval)
+2019-07-11 17:57:33 ERROR ResuableFunction:258 - Expected condition failed: waiting for presence of element located by: By.xpath: //XCUIElementTypeStaticText[@name="Venkat_BILL_PAYMENT_PN"] (tried for 30 second(s) with 500 milliseconds interval)
+2019-07-11 18:13:41 ERROR ResuableFunction:258 - Expected condition failed: waiting for presence of element located by: By.xpath: //XCUIElementTypeStaticText[@name="A_Venkat_BILL_PAYMENT_PNN"] (tried for 30 second(s) with 500 milliseconds interval)
+2019-07-15 15:40:04 ERROR ResuableFunction:258 - Expected condition failed: waiting for presence of element located by: By.xpath: //XCUIElementTypeStaticText[@name="Venkat_BILL_PAYMENT_PN"] (tried for 30 second(s) with 500 milliseconds interval)
+2019-07-15 15:40:52 ERROR ResuableFunction:258 - Expected condition failed: waiting for presence of element located by: By.id: DATE (tried for 30 second(s) with 500 milliseconds interval)
+2019-07-15 16:14:12 ERROR ResuableFunction:258 - Expected condition failed: waiting for presence of element located by: By.xpath: //XCUIElementTypeStaticText[@name="Today, 11 Jul 2019"] (tried for 30 second(s) with 500 milliseconds interval)
+2019-07-15 16:20:33 ERROR ResuableFunction:134 - Expected condition failed: waiting for visibility of element located by By.xpath: //XCUIElementTypeButton[@name="Experience Citi Mobile®"] (tried for 30 second(s) with 500 milliseconds interval)
+2019-07-15 17:08:22 ERROR ResuableFunction:260 - Expected condition failed: waiting for presence of element located by: By.xpath: //XCUIElementTypeStaticText[@name="K"] (tried for 30 second(s) with 500 milliseconds interval)
+2019-07-15 17:22:50 ERROR ResuableFunction:260 - Expected condition failed: waiting for presence of element located by: By.xpath: //XCUIElementTypeStaticText[@name="1 USD ⇄ 1.10210 SGD"] (tried for 30 second(s) with 500 milliseconds interval)
+2019-07-15 17:23:32 ERROR ResuableFunction:260 - Expected condition failed: waiting for presence of element located by: By.id: Back (tried for 30 second(s) with 500 milliseconds interval)
+2019-07-15 17:31:05 ERROR ResuableFunction:260 - Expected condition failed: waiting for presence of element located by: By.xpath: //XCUIElementTypeStaticText[@name="1 USD ⇄ 1.10210 SGD"] (tried for 30 second(s) with 500 milliseconds interval)
+2019-07-15 17:54:16 ERROR ResuableFunction:260 - Expected condition failed: waiting for presence of element located by: By.xpath: //XCUIElementTypeStaticText[@name="SET REPEAT"] (tried for 30 second(s) with 500 milliseconds interval)
+2019-07-16 10:49:04 ERROR ResuableFunction:134 - Expected condition failed: waiting for visibility of element located by By.xpath: //XCUIElementTypeButton[@name="good_button"] (tried for 30 second(s) with 500 milliseconds interval)
+2019-07-16 11:03:05 ERROR ResuableFunction:260 - Cannot find elements when the XPath is null.
+2019-07-16 12:21:14 ERROR ResuableFunction:134 - Expected condition failed: waiting for visibility of element located by By.xpath: //XCUIElementTypeButton[@name="Experience Citi Mobile®"] (tried for 30 second(s) with 500 milliseconds interval)
+2019-07-16 12:21:56 ERROR ResuableFunction:134 - Expected condition failed: waiting for visibility of element located by By.xpath: //XCUIElementTypeButton[@name="tabitem_payments"] (tried for 30 second(s) with 500 milliseconds interval)
+2019-07-16 12:22:37 ERROR ResuableFunction:260 - Expected condition failed: waiting for presence of element located by: By.xpath: //XCUIElementTypeStaticText[@name="FREQUENT RECIPIENTS"] (tried for 30 second(s) with 500 milliseconds interval)
+2019-07-16 12:31:10 ERROR ResuableFunction:260 - Expected condition failed: waiting for presence of element located by: By.xpath: //XCUIElementTypeStaticText[@name="Purpose of transfer"] (tried for 30 second(s) with 500 milliseconds interval)
+2019-07-16 17:23:00 ERROR ResuableFunction:260 - Cannot find elements when the XPath is null.
+2019-07-16 17:23:01 ERROR ResuableFunction:260 - Cannot find elements when the XPath is null.
+2019-07-16 17:23:01 ERROR ResuableFunction:134 - Cannot find elements when the XPath is null.
+2019-07-16 17:23:01 ERROR ResuableFunction:260 - Cannot find elements when the XPath is null.
+2019-07-16 17:23:02 ERROR ResuableFunction:260 - Cannot find elements when the XPath is null.
+2019-07-16 17:23:02 ERROR ResuableFunction:260 - Cannot find elements when the XPath is null.
+2019-07-16 17:23:02 ERROR ResuableFunction:260 - Cannot find elements when the XPath is null.
+2019-07-16 17:23:02 ERROR ResuableFunction:260 - Cannot find elements when the XPath is null.
+2019-07-16 17:23:03 ERROR ResuableFunction:260 - Cannot find elements when the XPath is null.
+2019-07-16 17:23:03 ERROR ResuableFunction:260 - Cannot find elements when the XPath is null.
+2019-07-16 17:23:03 ERROR ResuableFunction:260 - Cannot find elements when the XPath is null.
+2019-07-16 17:23:03 ERROR ResuableFunction:260 - Cannot find elements when the XPath is null.
+2019-07-16 17:23:03 ERROR ResuableFunction:260 - Cannot find elements when the XPath is null.
+2019-07-16 17:38:52 ERROR ResuableFunction:260 - Expected condition failed: waiting for presence of element located by: By.xpath: //XCUIElementTypeImage[@name="Citi-gold"] (tried for 30 second(s) with 500 milliseconds interval)
+2019-07-16 17:39:23 ERROR ResuableFunction:260 - Expected condition failed: waiting for presence of element located by: By.xpath: //XCUIElementTypeButton[@name="chat"] (tried for 30 second(s) with 500 milliseconds interval)
+2019-07-16 17:39:54 ERROR ResuableFunction:134 - Expected condition failed: waiting for visibility of element located by By.xpath: //XCUIElementTypeButton[@name="chat"] (tried for 30 second(s) with 500 milliseconds interval)
+2019-07-16 17:40:25 ERROR ResuableFunction:260 - Expected condition failed: waiting for presence of element located by: By.xpath: //XCUIElementTypeStaticText[@name="Hi CXIXHXNX CXAX"] (tried for 30 second(s) with 500 milliseconds interval)
+2019-07-16 17:40:55 ERROR ResuableFunction:260 - Expected condition failed: waiting for presence of element located by: By.xpath: //XCUIElementTypeStaticText[@name="How can we help you today?"] (tried for 30 second(s) with 500 milliseconds interval)
+2019-07-16 17:41:26 ERROR ResuableFunction:260 - Expected condition failed: waiting for presence of element located by: By.xpath: //XCUIElementTypeStaticText[@name="PUGAZH"] (tried for 30 second(s) with 500 milliseconds interval)
+2019-07-16 17:41:57 ERROR ResuableFunction:260 - Expected condition failed: waiting for presence of element located by: By.xpath: //XCUIElementTypeStaticText[@name="Your RM is Offwork"] (tried for 30 second(s) with 500 milliseconds interval)
+2019-07-16 17:42:28 ERROR ResuableFunction:260 - Expected condition failed: waiting for presence of element located by: By.xpath: //XCUIElementTypeButton[@name="P"] (tried for 30 second(s) with 500 milliseconds interval)
+2019-07-16 17:42:59 ERROR ResuableFunction:260 - Expected condition failed: waiting for presence of element located by: By.xpath: //XCUIElementTypeStaticText[@name="Book Appointment"] (tried for 30 second(s) with 500 milliseconds interval)
+2019-07-16 17:43:30 ERROR ResuableFunction:260 - Expected condition failed: waiting for presence of element located by: By.xpath: //XCUIElementTypeButton[@name="Calendar monthview"] (tried for 30 second(s) with 500 milliseconds interval)
+2019-07-16 17:44:01 ERROR ResuableFunction:260 - Expected condition failed: waiting for presence of element located by: By.xpath: //XCUIElementTypeStaticText[@name="Live Chat"] (tried for 30 second(s) with 500 milliseconds interval)
+2019-07-16 17:48:43 ERROR ResuableFunction:260 - Expected condition failed: waiting for presence of element located by: By.xpath: //XCUIElementTypeImage[@name="Citi-gold"] (tried for 30 second(s) with 500 milliseconds interval)
+2019-07-16 17:49:13 ERROR ResuableFunction:260 - Expected condition failed: waiting for presence of element located by: By.xpath: //XCUIElementTypeButton[@name="chat"] (tried for 30 second(s) with 500 milliseconds interval)
+2019-07-16 17:49:44 ERROR ResuableFunction:134 - Expected condition failed: waiting for visibility of element located by By.xpath: //XCUIElementTypeButton[@name="chat"] (tried for 30 second(s) with 500 milliseconds interval)
+2019-07-16 17:50:15 ERROR ResuableFunction:260 - Expected condition failed: waiting for presence of element located by: By.xpath: //XCUIElementTypeStaticText[@name="Hi CXIXHXNX CXAX"] (tried for 30 second(s) with 500 milliseconds interval)
+2019-07-16 17:53:31 ERROR ResuableFunction:134 - Cannot find elements when the XPath is null.
+2019-07-16 17:53:31 ERROR ResuableFunction:134 - Cannot find elements when the XPath is null.
+2019-07-16 17:54:11 ERROR ResuableFunction:260 - Expected condition failed: waiting for presence of element located by: By.xpath: //XCUIElementTypeImage[@name="Citi-gold"] (tried for 30 second(s) with 500 milliseconds interval)
+2019-07-16 17:58:56 ERROR ResuableFunction:134 - Expected condition failed: waiting for visibility of element located by By.xpath: //XCUIElementTypeStaticText[@name="Confirm"] (tried for 30 second(s) with 500 milliseconds interval)
+2019-07-16 17:59:27 ERROR ResuableFunction:134 - Expected condition failed: waiting for visibility of element located by By.xpath: //XCUIElementTypeOther[@name="CitiBank"]/XCUIElementTypeOther[35]/XCUIElementTypeOther[5] (tried for 30 second(s) with 500 milliseconds interval)
+2019-07-16 18:01:29 ERROR ResuableFunction:260 - Expected condition failed: waiting for presence of element located by: By.xpath: //XCUIElementTypeImage[@name="Citi-gold"] (tried for 30 second(s) with 500 milliseconds interval)
+2019-07-16 18:02:13 ERROR ResuableFunction:260 - Expected condition failed: waiting for presence of element located by: By.xpath: //XCUIElementTypeButton[@name="chat"] (tried for 30 second(s) with 500 milliseconds interval)
+2019-07-16 18:05:52 ERROR ResuableFunction:134 - Expected condition failed: waiting for visibility of element located by By.xpath: //XCUIElementTypeStaticText[@name="Confirm"] (tried for 30 second(s) with 500 milliseconds interval)
+2019-07-16 18:06:23 ERROR ResuableFunction:134 - Expected condition failed: waiting for visibility of element located by By.xpath: //XCUIElementTypeOther[@name="CitiBank"]/XCUIElementTypeOther[35]/XCUIElementTypeOther[5] (tried for 30 second(s) with 500 milliseconds interval)
+2019-07-16 18:08:24 ERROR ResuableFunction:260 - Expected condition failed: waiting for presence of element located by: By.xpath: //XCUIElementTypeImage[@name="Citi-gold"] (tried for 30 second(s) with 500 milliseconds interval)
+2019-07-16 18:09:06 ERROR ResuableFunction:260 - Expected condition failed: waiting for presence of element located by: By.xpath: //XCUIElementTypeButton[@name="chat"] (tried for 30 second(s) with 500 milliseconds interval)
+2019-07-16 18:09:47 ERROR ResuableFunction:134 - Expected condition failed: waiting for visibility of element located by By.xpath: //XCUIElementTypeButton[@name="chat"] (tried for 30 second(s) with 500 milliseconds interval)
+2019-07-16 18:10:28 ERROR ResuableFunction:260 - Expected condition failed: waiting for presence of element located by: By.xpath: //XCUIElementTypeStaticText[@name="Hi CXIXHXNX CXAX"] (tried for 30 second(s) with 500 milliseconds interval)
+2019-07-17 10:39:01 ERROR ResuableFunction:137 - Expected condition failed: waiting for visibility of element located by By.xpath: //XCUIElementTypeButton[@name="Experience Citi Mobile®"] (tried for 30 second(s) with 500 milliseconds interval)
+2019-07-17 10:39:43 ERROR ResuableFunction:263 - Expected condition failed: waiting for presence of element located by: By.xpath: //XCUIElementTypeStaticText[@name="FREQUENT RECIPIENTS"] (tried for 30 second(s) with 500 milliseconds interval)
+2019-07-17 10:57:18 ERROR ResuableFunction:263 - Expected condition failed: waiting for presence of element located by: By.xpath: //XCUIElementTypeStaticText[@name="FREQUENT RECIPIENTS"] (tried for 30 second(s) with 500 milliseconds interval)
+2019-07-17 11:11:37 ERROR ResuableFunction:263 - Expected condition failed: waiting for presence of element located by: By.xpath: //XCUIElementTypeStaticText[@name="FREQUENT RECIPIENTS"] (tried for 30 second(s) with 500 milliseconds interval)
+2019-07-17 11:12:08 ERROR ResuableFunction:263 - Expected condition failed: waiting for presence of element located by: By.xpath: //XCUIElementTypeStaticText[@name="V"] (tried for 30 second(s) with 500 milliseconds interval)
+2019-07-17 11:12:39 ERROR ResuableFunction:263 - Expected condition failed: waiting for presence of element located by: By.xpath: //XCUIElementTypeStaticText[@name="Venkat_BILL_PAYMENT_PNN"] (tried for 30 second(s) with 500 milliseconds interval)
+2019-07-17 11:13:10 ERROR ResuableFunction:137 - Expected condition failed: waiting for visibility of element located by By.xpath: //XCUIElementTypeStaticText[@name="V"] (tried for 30 second(s) with 500 milliseconds interval)
+2019-07-17 11:13:41 ERROR ResuableFunction:263 - Expected condition failed: waiting for presence of element located by: By.id: cross (tried for 30 second(s) with 500 milliseconds interval)
+2019-07-17 11:23:37 ERROR ResuableFunction:263 - Expected condition failed: waiting for presence of element located by: By.xpath: //XCUIElementTypeStaticText[@name="FREQUENT RECIPIENTS"] (tried for 30 second(s) with 500 milliseconds interval)
+2019-07-17 11:24:08 ERROR ResuableFunction:263 - Expected condition failed: waiting for presence of element located by: By.xpath: //XCUIElementTypeStaticText[@name="V"] (tried for 30 second(s) with 500 milliseconds interval)
+2019-07-17 11:39:04 ERROR ResuableFunction:137 - Expected condition failed: waiting for visibility of element located by By.xpath: //XCUIElementTypeButton[@name="Experience Citi Mobile®"] (tried for 30 second(s) with 500 milliseconds interval)
+2019-07-17 12:19:41 ERROR ResuableFunction:137 - Expected condition failed: waiting for visibility of element located by By.xpath: //XCUIElementTypeButton[@name="Experience Citi Mobile®"] (tried for 30 second(s) with 500 milliseconds interval)
+2019-07-17 13:18:03 ERROR ResuableFunction:137 - Expected condition failed: waiting for visibility of element located by By.xpath: //XCUIElementTypeButton[@name="Experience Citi Mobile®"] (tried for 30 second(s) with 500 milliseconds interval)
+2019-07-17 13:18:45 ERROR ResuableFunction:263 - Expected condition failed: waiting for presence of element located by: By.xpath: //XCUIElementTypeStaticText[@name="FREQUENT RECIPIENTS"] (tried for 30 second(s) with 500 milliseconds interval)
+2019-07-17 13:21:07 ERROR ResuableFunction:263 - Expected condition failed: waiting for presence of element located by: By.xpath: //XCUIElementTypeStaticText[@name="S"] (tried for 30 second(s) with 500 milliseconds interval)
+2019-07-17 13:21:47 ERROR ResuableFunction:263 - Expected condition failed: waiting for presence of element located by: By.xpath: //XCUIElementTypeStaticText[@name="Shenil_INTERNAL_DOMESTIC_PNN"] (tried for 30 second(s) with 500 milliseconds interval)
+2019-07-17 13:22:28 ERROR ResuableFunction:137 - Expected condition failed: waiting for visibility of element located by By.xpath: //XCUIElementTypeStaticText[@name="S"] (tried for 30 second(s) with 500 milliseconds interval)
+2019-07-17 13:23:08 ERROR ResuableFunction:263 - Expected condition failed: waiting for presence of element located by: By.id: cross (tried for 30 second(s) with 500 milliseconds interval)
+2019-07-17 13:23:50 ERROR ResuableFunction:137 - Expected condition failed: waiting for visibility of element located by By.xpath: //XCUIElementTypeNavigationBar[@name="From account"] (tried for 30 second(s) with 500 milliseconds interval)
+2019-07-17 13:24:32 ERROR ResuableFunction:137 - Expected condition failed: waiting for visibility of element located by By.xpath: //XCUIElementTypeStaticText[@name="Cash Trading •••• 6771"] (tried for 30 second(s) with 500 milliseconds interval)
+2019-07-17 13:26:35 ERROR ResuableFunction:263 - Expected condition failed: waiting for presence of element located by: By.xpath: //XCUIElementTypeStaticText[@name="Available balance USD 1,713.75"] (tried for 30 second(s) with 500 milliseconds interval)
+2019-07-17 13:27:17 ERROR ResuableFunction:263 - Expected condition failed: waiting for presence of element located by: By.xpath: //XCUIElementTypeStaticText[@name="RECIPIENT GETS"] (tried for 30 second(s) with 500 milliseconds interval)
+2019-07-17 13:29:22 ERROR ResuableFunction:263 - Expected condition failed: waiting for presence of element located by: By.xpath: //XCUIElementTypeStaticText[@name="1 USD ⇄ 1.10210 SGD"] (tried for 30 second(s) with 500 milliseconds interval)
+2019-07-17 13:31:36 ERROR ResuableFunction:127 - Expected condition failed: waiting for visibility of element located by By.id: arrow white (tried for 100 second(s) with 500 milliseconds interval)
+2019-07-17 13:32:18 ERROR ResuableFunction:263 - Expected condition failed: waiting for presence of element located by: By.id: Back (tried for 30 second(s) with 500 milliseconds interval)
+2019-07-17 13:32:59 ERROR ResuableFunction:263 - Expected condition failed: waiting for presence of element located by: By.xpath: //XCUIElementTypeStaticText[@name="S$ 7,000.25"] (tried for 30 second(s) with 500 milliseconds interval)
+2019-07-17 13:33:42 ERROR ResuableFunction:263 - Expected condition failed: waiting for presence of element located by: By.xpath: //XCUIElementTypeStaticText[@name="Shenil_INTERNAL_DOMESTIC_PN"] (tried for 30 second(s) with 500 milliseconds interval)
+2019-07-17 13:34:23 ERROR ResuableFunction:263 - Expected condition failed: waiting for presence of element located by: By.xpath: //XCUIElementTypeStaticText[@name="Citibank Singapore | •••• XXXXXXX2328"] (tried for 30 second(s) with 500 milliseconds interval)
+2019-07-17 13:35:04 ERROR ResuableFunction:263 - Expected condition failed: waiting for presence of element located by: By.xpath: //XCUIElementTypeStaticText[@name="Cash Trading •••• 6771"] (tried for 30 second(s) with 500 milliseconds interval)
+2019-07-17 13:36:26 ERROR ResuableFunction:263 - Expected condition failed: waiting for presence of element located by: By.xpath: //XCUIElementTypeStaticText[@name="Transfer date"] (tried for 30 second(s) with 500 milliseconds interval)
+2019-07-17 13:37:07 ERROR ResuableFunction:263 - Expected condition failed: waiting for presence of element located by: By.xpath: //XCUIElementTypeStaticText[@name="MESSAGE"] (tried for 30 second(s) with 500 milliseconds interval)
+2019-07-17 13:37:49 ERROR ResuableFunction:263 - Expected condition failed: waiting for presence of element located by: By.xpath: //XCUIElementTypeStaticText[@name="SET REPEAT"] (tried for 30 second(s) with 500 milliseconds interval)
+2019-07-17 13:38:31 ERROR ResuableFunction:263 - Expected condition failed: waiting for presence of element located by: By.xpath: //XCUIElementTypeStaticText[@name="PURPOSE OF TRANSFER"] (tried for 30 second(s) with 500 milliseconds interval)
+2019-07-17 13:39:13 ERROR ResuableFunction:137 - Expected condition failed: waiting for visibility of element located by By.xpath: //XCUIElementTypeButton[@name="Pay"] (tried for 30 second(s) with 500 milliseconds interval)
+2019-07-17 13:43:16 ERROR ResuableFunction:263 - Expected condition failed: waiting for presence of element located by: By.xpath: //XCUIElementTypeStaticText[@name="You transferred S$ 7000.25 to Shenil_INTERNAL_DOMESTIC_PN"] (tried for 30 second(s) with 500 milliseconds interval)
+2019-07-17 13:43:58 ERROR ResuableFunction:263 - Expected condition failed: waiting for presence of element located by: By.xpath: //XCUIElementTypeStaticText[@name="Recipient details"] (tried for 30 second(s) with 500 milliseconds interval)
+2019-07-17 13:44:40 ERROR ResuableFunction:263 - Expected condition failed: waiting for presence of element located by: By.xpath: //XCUIElementTypeStaticText[@name="Citibank Singapore •••• XXXXXXX2328"] (tried for 30 second(s) with 500 milliseconds interval)
+2019-07-17 13:45:21 ERROR ResuableFunction:263 - Expected condition failed: waiting for presence of element located by: By.xpath: //XCUIElementTypeStaticText[@name="PURPOSE OF TRANSFER"] (tried for 30 second(s) with 500 milliseconds interval)
+2019-07-17 13:46:04 ERROR ResuableFunction:263 - Expected condition failed: waiting for presence of element located by: By.xpath: //XCUIElementTypeStaticText[@name="From"] (tried for 30 second(s) with 500 milliseconds interval)
+2019-07-17 13:46:46 ERROR ResuableFunction:263 - Expected condition failed: waiting for presence of element located by: By.xpath: //XCUIElementTypeStaticText[@name="Cash Trading •••• 6771"] (tried for 30 second(s) with 500 milliseconds interval)
+2019-07-17 13:47:28 ERROR ResuableFunction:263 - Expected condition failed: waiting for presence of element located by: By.xpath: //XCUIElementTypeButton[@name=" Share this transaction"] (tried for 30 second(s) with 500 milliseconds interval)
+2019-07-17 13:48:09 ERROR ResuableFunction:137 - Expected condition failed: waiting for visibility of element located by By.xpath: //XCUIElementTypeButton[@name="Done"] (tried for 30 second(s) with 500 milliseconds interval)
+2019-07-17 14:42:53 ERROR ResuableFunction:263 - Expected condition failed: waiting for presence of element located by: By.xpath: //XCUIElementTypeStaticText[@name="S$ 7,000.25"] (tried for 30 second(s) with 500 milliseconds interval)
+2019-07-17 14:44:28 ERROR ResuableFunction:263 - Expected condition failed: waiting for presence of element located by: By.xpath: //XCUIElementTypeStaticText[@name="SET REPEAT"] (tried for 30 second(s) with 500 milliseconds interval)
+2019-07-17 14:48:40 ERROR ResuableFunction:263 - Expected condition failed: waiting for presence of element located by: By.xpath: //XCUIElementTypeStaticText[@name="Citibank Singapore •••• XXXXXXX2328"] (tried for 30 second(s) with 500 milliseconds interval)
+2019-07-17 14:49:22 ERROR ResuableFunction:263 - Expected condition failed: waiting for presence of element located by: By.xpath: //XCUIElementTypeStaticText[@name="PURPOSE OF TRANSFER"] (tried for 30 second(s) with 500 milliseconds interval)
+2019-07-17 15:08:05 ERROR ResuableFunction:137 - Expected condition failed: waiting for visibility of element located by By.xpath: //XCUIElementTypeButton[@name="Experience Citi Mobile®"] (tried for 30 second(s) with 500 milliseconds interval)
+2019-07-17 15:08:48 ERROR ResuableFunction:137 - Expected condition failed: waiting for visibility of element located by By.xpath: //XCUIElementTypeButton[@name="tabitem_payments"] (tried for 30 second(s) with 500 milliseconds interval)
+2019-07-17 15:11:09 ERROR ResuableFunction:263 - Expected condition failed: waiting for presence of element located by: By.xpath: //XCUIElementTypeStaticText[@name="FREQUENT RECIPIENTS"] (tried for 30 second(s) with 500 milliseconds interval)
+2019-07-17 15:11:51 ERROR ResuableFunction:263 - Expected condition failed: waiting for presence of element located by: By.xpath: //XCUIElementTypeStaticText[@name="S"] (tried for 30 second(s) with 500 milliseconds interval)
+2019-07-17 15:12:33 ERROR ResuableFunction:263 - Expected condition failed: waiting for presence of element located by: By.xpath: //XCUIElementTypeStaticText[@name="Shenil_INTERNAL_DOMESTIC_PNN"] (tried for 30 second(s) with 500 milliseconds interval)
+2019-07-17 15:13:14 ERROR ResuableFunction:137 - Expected condition failed: waiting for visibility of element located by By.xpath: //XCUIElementTypeStaticText[@name="S"] (tried for 30 second(s) with 500 milliseconds interval)
+2019-07-17 15:49:31 ERROR ResuableFunction:263 - Expected condition failed: waiting for presence of element located by: By.xpath: //XCUIElementTypeStaticText[@name="Shenil_INTERNAL_DOMESTIC_PN"] (tried for 30 second(s) with 500 milliseconds interval)
+2019-07-17 16:24:56 ERROR ResuableFunction:263 - Expected condition failed: waiting for presence of element located by: By.xpath: //XCUIElementTypeStaticText[@name="Shenil_INTERNAL_DOMESTIC_PN"] (tried for 30 second(s) with 500 milliseconds interval)
+2019-07-17 16:26:14 ERROR ResuableFunction:263 - Expected condition failed: waiting for presence of element located by: By.xpath: //XCUIElementTypeStaticText[@name="You transferred S$ 3.33 to A_Shenil_INTERNAL_DOMESTIC_PN"] (tried for 30 second(s) with 500 milliseconds interval)
+2019-07-17 16:26:56 ERROR ResuableFunction:263 - Expected condition failed: waiting for presence of element located by: By.xpath: //XCUIElementTypeStaticText[@name="Recipient details"] (tried for 30 second(s) with 500 milliseconds interval)
+2019-07-17 16:27:38 ERROR ResuableFunction:263 - Expected condition failed: waiting for presence of element located by: By.xpath: //XCUIElementTypeStaticText[@name="PURPOSE OF TRANSFER"] (tried for 30 second(s) with 500 milliseconds interval)
+2019-07-17 16:28:20 ERROR ResuableFunction:263 - Expected condition failed: waiting for presence of element located by: By.xpath: //XCUIElementTypeStaticText[@name=" XXXXXXX2328"] (tried for 30 second(s) with 500 milliseconds interval)
+2019-07-17 16:29:01 ERROR ResuableFunction:263 - Expected condition failed: waiting for presence of element located by: By.xpath: //XCUIElementTypeStaticText[@name="Transfer date"] (tried for 30 second(s) with 500 milliseconds interval)
+2019-07-17 16:29:43 ERROR ResuableFunction:263 - Expected condition failed: waiting for presence of element located by: By.xpath: //XCUIElementTypeStaticText[@name="Savings Account •••• 1176"] (tried for 30 second(s) with 500 milliseconds interval)
+2019-07-17 16:30:24 ERROR ResuableFunction:263 - Expected condition failed: waiting for presence of element located by: By.xpath: //XCUIElementTypeButton[@name=" Share this transaction"] (tried for 30 second(s) with 500 milliseconds interval)
+2019-07-17 16:31:06 ERROR ResuableFunction:137 - Expected condition failed: waiting for visibility of element located by By.xpath: //XCUIElementTypeButton[@name="Done"] (tried for 30 second(s) with 500 milliseconds interval)
+2019-07-17 18:20:00 ERROR ResuableFunction:263 - Expected condition failed: waiting for presence of element located by: By.xpath: //XCUIElementTypeStaticText[@name="Shenil_INTERNAL_DOMESTIC_PN"] (tried for 30 second(s) with 500 milliseconds interval)
+2019-07-17 19:33:52 ERROR ResuableFunction:137 - Expected condition failed: waiting for visibility of element located by By.xpath: //XCUIElementTypeButton[@name="Experience Citi Mobile®"] (tried for 30 second(s) with 500 milliseconds interval)
+2019-07-17 19:34:38 ERROR ResuableFunction:137 - Expected condition failed: waiting for visibility of element located by By.xpath: //XCUIElementTypeButton[@name="tabitem_payments"] (tried for 30 second(s) with 500 milliseconds interval)
+2019-07-17 19:42:01 ERROR ResuableFunction:263 - Expected condition failed: waiting for presence of element located by: By.id: Back (tried for 30 second(s) with 500 milliseconds interval)
+2019-07-17 19:42:48 ERROR ResuableFunction:263 - Expected condition failed: waiting for presence of element located by: By.xpath: //XCUIElementTypeStaticText[@name="S$ 9,825.45"] (tried for 30 second(s) with 500 milliseconds interval)
+2019-07-17 19:43:29 ERROR ResuableFunction:263 - Expected condition failed: waiting for presence of element located by: By.xpath: //XCUIElementTypeStaticText[@name="A_Shenil_INTERNAL_DOMESTIC_PN"] (tried for 30 second(s) with 500 milliseconds interval)
+2019-07-17 19:50:41 ERROR ResuableFunction:263 - Expected condition failed: waiting for presence of element located by: By.id: Back (tried for 30 second(s) with 500 milliseconds interval)
+2019-07-17 19:51:27 ERROR ResuableFunction:263 - Expected condition failed: waiting for presence of element located by: By.xpath: //XCUIElementTypeStaticText[@name="S$ 9,825.45"] (tried for 30 second(s) with 500 milliseconds interval)
+2019-07-17 19:52:08 ERROR ResuableFunction:263 - Expected condition failed: waiting for presence of element located by: By.xpath: //XCUIElementTypeStaticText[@name="A_Shenil_INTERNAL_DOMESTIC_PN"] (tried for 30 second(s) with 500 milliseconds interval)
+2019-07-18 15:23:50 ERROR ResuableFunction:263 - Expected condition failed: waiting for presence of element located by: By.xpath:  (tried for 30 second(s) with 500 milliseconds interval)
+2019-07-18 15:24:40 ERROR ResuableFunction:263 - Expected condition failed: waiting for presence of element located by: By.xpath: //XCUIElementTypeStaticText[@name="Transfer date"] (tried for 30 second(s) with 500 milliseconds interval)
+2019-07-18 15:25:28 ERROR ResuableFunction:263 - Expected condition failed: waiting for presence of element located by: By.xpath: //XCUIElementTypeStaticText[@name="PURPOSE OF TRANSFER"] (tried for 30 second(s) with 500 milliseconds interval)
+2019-07-18 15:26:13 ERROR ResuableFunction:263 - Expected condition failed: waiting for presence of element located by: By.xpath: //XCUIElementTypeStaticText[@name="You transferred S$ 3.33 to Preethi_EXT_CREDIT_CARDS_PN"] (tried for 30 second(s) with 500 milliseconds interval)
+2019-07-18 15:26:54 ERROR ResuableFunction:263 - Expected condition failed: waiting for presence of element located by: By.xpath: //XCUIElementTypeStaticText[@name="Recipient details"] (tried for 30 second(s) with 500 milliseconds interval)
+2019-07-18 15:27:36 ERROR ResuableFunction:263 - Expected condition failed: waiting for presence of element located by: By.xpath: //XCUIElementTypeStaticText[@name="PURPOSE OF TRANSFER"] (tried for 30 second(s) with 500 milliseconds interval)
+2019-07-18 15:28:17 ERROR ResuableFunction:263 - Expected condition failed: waiting for presence of element located by: By.xpath: //XCUIElementTypeStaticText[@name=" XXXXXXX2328"] (tried for 30 second(s) with 500 milliseconds interval)
+2019-07-18 15:36:37 ERROR ResuableFunction:263 - Expected condition failed: waiting for presence of element located by: By.xpath: //XCUIElementTypeStaticText[@name="S$ 7,000.25"] (tried for 30 second(s) with 500 milliseconds interval)
+2019-07-18 15:37:24 ERROR ResuableFunction:263 - Expected condition failed: waiting for presence of element located by: By.xpath: //XCUIElementTypeStaticText[@name="Citibank Singapore | •••• XXXXXXX2328"] (tried for 30 second(s) with 500 milliseconds interval)
+2019-07-18 15:38:51 ERROR ResuableFunction:263 - Expected condition failed: waiting for presence of element located by: By.xpath: //XCUIElementTypeStaticText[@name="SET REPEAT"] (tried for 30 second(s) with 500 milliseconds interval)
+2019-07-18 15:39:33 ERROR ResuableFunction:263 - Expected condition failed: waiting for presence of element located by: By.xpath: //XCUIElementTypeStaticText[@name="Purpose of transfer"] (tried for 30 second(s) with 500 milliseconds interval)
+2019-07-18 15:40:31 ERROR ResuableFunction:263 - Expected condition failed: waiting for presence of element located by: By.xpath: //XCUIElementTypeStaticText[@name="Recipient details"] (tried for 30 second(s) with 500 milliseconds interval)
+2019-07-18 15:41:12 ERROR ResuableFunction:263 - Expected condition failed: waiting for presence of element located by: By.xpath: //XCUIElementTypeStaticText[@name="Citibank Singapore •••• XXXXXXX2328"] (tried for 30 second(s) with 500 milliseconds interval)
+2019-07-18 15:41:54 ERROR ResuableFunction:263 - Expected condition failed: waiting for presence of element located by: By.xpath: //XCUIElementTypeStaticText[@name="PURPOSE OF TRANSFER"] (tried for 30 second(s) with 500 milliseconds interval)
+2019-07-18 16:06:47 ERROR ResuableFunction:263 - Expected condition failed: waiting for presence of element located by: By.xpath: (//XCUIElementTypeStaticText[@name="A"])[4] (tried for 30 second(s) with 500 milliseconds interval)
+2019-07-18 16:07:33 ERROR ResuableFunction:263 - Expected condition failed: waiting for presence of element located by: By.xpath: (//XCUIElementTypeStaticText[@name="A_Selva_EXTERNAL_CREDIT_CARDS_PNN"])[2] (tried for 30 second(s) with 500 milliseconds interval)
+2019-07-18 16:15:52 ERROR ResuableFunction:263 - Expected condition failed: waiting for presence of element located by: By.xpath: (//XCUIElementTypeStaticText[@name="A_Selva_EXTERNAL_CREDIT_CARDS_PNN"])[2] (tried for 30 second(s) with 500 milliseconds interval)
+2019-07-18 16:17:20 ERROR ResuableFunction:263 - Expected condition failed: waiting for presence of element located by: By.xpath: //XCUIElementTypeStaticText[@name="PURPOSE OF TRANSFER"] (tried for 30 second(s) with 500 milliseconds interval)
+2019-07-18 16:24:32 ERROR ResuableFunction:263 - Expected condition failed: waiting for presence of element located by: By.xpath: (//XCUIElementTypeStaticText[@name="A_Selva_EXTERNAL_CREDIT_CARDS_PNN"])[2] (tried for 30 second(s) with 500 milliseconds interval)
+2019-07-18 16:25:59 ERROR ResuableFunction:263 - Expected condition failed: waiting for presence of element located by: By.xpath: //XCUIElementTypeStaticText[@name="S$ 10.00"] (tried for 30 second(s) with 500 milliseconds interval)
+2019-07-18 16:26:41 ERROR ResuableFunction:263 - Expected condition failed: waiting for presence of element located by: By.xpath: //XCUIElementTypeStaticText[@name="Citibank Singapore | •••• XXXXXXX2328"] (tried for 30 second(s) with 500 milliseconds interval)
+2019-07-18 16:27:33 ERROR ResuableFunction:263 - Expected condition failed: waiting for presence of element located by: By.xpath: //XCUIElementTypeStaticText[@name="Purpose of transfer"] (tried for 30 second(s) with 500 milliseconds interval)
+2019-07-18 16:28:30 ERROR ResuableFunction:263 - Expected condition failed: waiting for presence of element located by: By.xpath: //XCUIElementTypeStaticText[@name="You transferred S$ 10.00 to A_Selva_EXTERNAL_CREDIT_CARDS_PN"] (tried for 30 second(s) with 500 milliseconds interval)
+2019-07-18 16:29:14 ERROR ResuableFunction:263 - Expected condition failed: waiting for presence of element located by: By.xpath: //XCUIElementTypeStaticText[@name="PURPOSE OF TRANSFER"] (tried for 30 second(s) with 500 milliseconds interval)
+2020-07-31 04:30:31 ERROR WaitFunction:118 - Error to be printed here
+2020-07-31 04:30:31 ERROR WaitFunction:118 - Error to be printed here
+2020-07-31 04:34:34 ERROR WaitFunction:118 - Error to be printed here
+2020-07-31 04:34:34 ERROR WaitFunction:118 - Error to be printed here
+2020-07-31 04:36:01 ERROR WaitFunction:118 - Error to be printed here
+2020-07-31 04:36:02 ERROR WaitFunction:118 - Error to be printed here
+2020-07-31 04:41:41 ERROR WaitFunction:118 - Error to be printed here
+2020-07-31 04:45:23 ERROR WaitFunction:118 - Error to be printed here
+2020-07-31 04:49:27 ERROR WaitFunction:118 - Error to be printed here
+2020-07-31 04:49:28 ERROR WaitFunction:118 - Error to be printed here
+2020-07-31 04:57:59 ERROR WaitFunction:118 - Error to be printed here
+2020-07-31 04:58:00 ERROR WaitFunction:118 - Error to be printed here
+2020-07-31 05:00:07 ERROR WaitFunction:118 - Error to be printed here
+2020-07-31 05:00:08 ERROR WaitFunction:118 - Error to be printed here
+2020-07-31 05:03:38 ERROR WaitFunction:118 - Error to be printed here
+2020-07-31 05:03:40 ERROR WaitFunction:118 - Error to be printed here
+2020-07-31 12:27:58 ERROR WaitFunction:118 - Error to be printed here
+2020-07-31 12:27:58 ERROR WaitFunction:118 - Error to be printed here
+2020-07-31 13:03:24 ERROR WaitFunction:119 - Error to be printed here
+2020-07-31 13:03:24 ERROR WaitFunction:119 - Error to be printed here
+2020-07-31 13:05:38 ERROR WaitFunction:119 - Error to be printed here
+2020-07-31 13:05:38 ERROR WaitFunction:119 - Error to be printed here
+2020-07-31 13:08:58 ERROR WaitFunction:119 - Error to be printed here
+2020-07-31 13:08:59 ERROR WaitFunction:119 - Error to be printed here
+2020-07-31 13:17:21 ERROR WaitFunction:119 - Error to be printed here
+2020-07-31 13:17:33 ERROR WaitFunction:119 - Error to be printed here
+2020-07-31 13:19:20 ERROR WaitFunction:119 - Error to be printed here
+2020-07-31 13:19:21 ERROR WaitFunction:119 - Error to be printed here
+2020-07-31 13:19:21 ERROR WaitFunction:274 - Error to be printed here
+2020-07-31 13:19:22 ERROR WaitFunction:274 - Error to be printed here
+2020-07-31 13:19:22 ERROR WaitFunction:274 - Error to be printed here
+2020-07-31 13:19:23 ERROR WaitFunction:274 - Error to be printed here
+2020-07-31 13:19:23 ERROR WaitFunction:274 - Error to be printed here
+2020-07-31 13:19:24 ERROR WaitFunction:274 - Error to be printed here
+2020-07-31 13:19:24 ERROR WaitFunction:274 - Error to be printed here
+2020-07-31 13:21:06 ERROR WaitFunction:119 - Error to be printed here
+2020-07-31 13:21:07 ERROR WaitFunction:119 - Error to be printed here
+2020-07-31 13:21:07 ERROR WaitFunction:274 - Error to be printed here
+2020-07-31 13:21:08 ERROR WaitFunction:274 - Error to be printed here
+2020-07-31 13:21:08 ERROR WaitFunction:274 - Error to be printed here
+2020-07-31 13:21:08 ERROR WaitFunction:274 - Error to be printed here
+2020-07-31 13:21:09 ERROR WaitFunction:274 - Error to be printed here
+2020-07-31 13:21:09 ERROR WaitFunction:274 - Error to be printed here
+2020-07-31 13:21:10 ERROR WaitFunction:274 - Error to be printed here
+2020-07-31 13:28:42 ERROR WaitFunction:123 - Error to be printed here
+2020-07-31 13:28:43 ERROR WaitFunction:123 - Error to be printed here
+2020-07-31 13:28:43 ERROR WaitFunction:284 - Error to be printed here
+2020-07-31 13:28:44 ERROR WaitFunction:284 - Error to be printed here
+2020-07-31 13:28:44 ERROR WaitFunction:284 - Error to be printed here
+2020-07-31 13:28:45 ERROR WaitFunction:284 - Error to be printed here
+2020-07-31 13:28:45 ERROR WaitFunction:284 - Error to be printed here
+2020-07-31 13:28:46 ERROR WaitFunction:284 - Error to be printed here
+2020-07-31 13:28:46 ERROR WaitFunction:284 - Error to be printed here
+2020-07-31 13:31:35 ERROR WaitFunction:123 - Error to be printed here
+2020-07-31 13:33:12 ERROR WaitFunction:123 - Error to be printed here
+2020-07-31 13:38:31 ERROR WaitFunction:284 - Error to be printed here
+2020-07-31 13:42:08 ERROR WaitFunction:123 - Error to be printed here
+2020-07-31 13:42:08 ERROR WaitFunction:123 - Error to be printed here
+2020-07-31 13:42:08 ERROR WaitFunction:284 - Error to be printed here
+2020-07-31 13:42:09 ERROR WaitFunction:284 - Error to be printed here
+2020-07-31 13:42:09 ERROR WaitFunction:284 - Error to be printed here
+2020-07-31 13:42:10 ERROR WaitFunction:284 - Error to be printed here
+2020-07-31 13:42:10 ERROR WaitFunction:284 - Error to be printed here
+2020-07-31 13:42:11 ERROR WaitFunction:284 - Error to be printed here
+2020-07-31 13:42:11 ERROR WaitFunction:284 - Error to be printed here
+2020-07-31 13:43:47 ERROR WaitFunction:123 - Error to be printed here
+2020-07-31 13:43:48 ERROR WaitFunction:123 - Error to be printed here
+2020-07-31 13:44:58 ERROR WaitFunction:284 - Error to be printed here
